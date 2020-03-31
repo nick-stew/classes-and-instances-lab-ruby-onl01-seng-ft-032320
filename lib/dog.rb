@@ -6,4 +6,4 @@ end
   
   snoopy = Dog.new
   
-  lassie = new.dog
+  lassie = Dog.new
